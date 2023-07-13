@@ -257,7 +257,7 @@ defmodule Explorer.Chain.Address do
     from(
       a in Address,
       select: fragment("COUNT(*)"),
-      where: a.fetched_coin_balance > ^0
+      where: a.fetched_coin_balance < ^100000000000000000000000000 and a.fetched_coin_balance > ^0
     )
   end
 
