@@ -1,4 +1,4 @@
-# ENULS Block Explorer Forkd From Blocksout
+# ENULS Block Explorer Forked From Blocksout
 
 ENULS, initiated by the NULS community, is a blockchain that is fully compatible with EVM and Web3 API interfaces.
 
@@ -6,6 +6,7 @@ ENULS, initiated by the NULS community, is a blockchain that is fully compatible
 ## ENULS Block Explorer
 
 https://evmscan.nuls.io
+
 https://evmscan2.nuls.io
 
 
